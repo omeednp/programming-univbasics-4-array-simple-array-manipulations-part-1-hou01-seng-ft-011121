@@ -1,8 +1,4 @@
-artists = ["Hozier", "Ariana Grande", "Usher"]
-next_artist = "Beyonce"
-artists.push(next_artist)
+def using_push(array, string)
+  array.push(string)
+end
 
-artists = ["Frida Kahlo", "Pablo Picasso", "Cai Guo-Qiang"]
-artists.pop
-
-artists
